@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "647864294cac0b8910d91382"
+  },
+  "allInPings": 3,
+  "assists": 20,
+  "champExperience": 55174,
+  "deaths": 33,
+  "goldEarned": 45269,
+  "kills": 18,
+  "visionScore": 91,
+  "visionWardsBoughtInGame": 6,
+  "matchId": "EUN1_3377722006",
+  "win": false
+},
+{
+  "_id": {
+    "$oid": "647864294cac0b8910d91d75"
+  },
+  "allInPings": 0,
+  "assists": 45,
+  "champExperience": 67352,
+  "deaths": 19,
+  "goldEarned": 58088,
+  "kills": 33,
+  "visionScore": 123,
+  "visionWardsBoughtInGame": 8,
+  "matchId": "EUN1_3377722006",
+  "win": true
+}]
